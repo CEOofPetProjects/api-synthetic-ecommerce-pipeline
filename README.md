@@ -7,8 +7,8 @@ An end-to-end data pipeline case study combining live REST API ingestion with pr
 * **Language:** Python
 * **Data processing:** pandas
 * **Data simulation:** Faker, random
-* **API ingestion:** requests (DummyJSON REST API)
 * **Data visualization:** Matplotlib, Seaborn
+* **API ingestion:** requests (DummyJSON REST API)
 
 ## Analysis
 
