@@ -1,5 +1,7 @@
 <small>This repository is protected under the **CC BY-NC 4.0** license.<small>
 
+> <small><b>Language:</b> English | <a href="README_RUS.md">Читать на русском</a></small>
+
 ## Project overview
 An end-to-end data pipeline case study combining live REST API ingestion with programmatic data simulation. This project extracts product catalog data from the DummyJSON REST API, synthesizes realistic e-commerce transactions using Python (Faker and random), normalizes the output into structured, linkable CSV datasets, and generates an automated visualization suite.
 
