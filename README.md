@@ -21,7 +21,7 @@ An end-to-end data pipeline case study combining live REST API ingestion with pr
 * Maple Valley secures a stable second place, experiencing notable performance peaks in March 2026 and October 2026 
 * Sunny Bay maintains a consistent baseline contribution but exhibits sharper cyclical fluctuations and lower overall revenue yields compared to the other two markets
 
-### Top 10 products by revenue
+### Top 10 products by units sold
 ![Top 10 products chart](2_2_top_10_products.png)
 
 * Red Nail Polish leads total unit sales comfortably past the 1,000-unit threshold, closely followed by Gucci Bloom Eau de and Powder Canister 
